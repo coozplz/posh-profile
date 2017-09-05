@@ -21,9 +21,3 @@
 - [color-host](https://github.com/weirdpattern/color-host) : `Write-Host` 명령의 `ANSI` 색상을 사용할 수 있도록 해준다.
 - [PSColor](http://www.powertheshell.com/isesteroids/) : 파일과 디렉토리의 색상을 분리하여 표시하도록 한다. [ConEmu](https://conemu.github.io/)와 함께 사용하면 훨씬 보기 좋아진다.
 - [PSReadLine](https://github.com/lzybkr/PSReadLine) : 파워쉘에서 명령 편집시 `Emacs` 스타일을 사용할 수 있도록 해준다. `Emacs` 스타일을 리눅스 기본 편집 스타일이다.
-
-
-### **Update History**
-
-|---|---|
-|2017.09.05|최초작성|
