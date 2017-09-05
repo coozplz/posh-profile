@@ -1,0 +1,3 @@
+[submodule "PowerShell_ISE_Themes"]
+	path = PowerShell_ISE_Themes
+	url = https://github.com/marzme/PowerShell_ISE_Themes
